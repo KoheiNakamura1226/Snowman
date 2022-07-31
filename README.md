@@ -6,7 +6,15 @@ https://github.com/KoheiNakamura1226/Snowman
 (C)2022 中村昂平
 
 ■このゲームについて
-ここにゲームの概要
+雪だるまになってVR空間で遊ぶゲームです。体の一部を測定して体格に合った雪だるまになれます。
+
+遊べるゲーム
+・的当てゲーム
+
+追加予定
+・雪合戦ゲーム
+
+※Meta Quest 2専用アプリです
 
 ■起動方法
 「SnowmanPlayground.apk」をMeta Quest 2にダウンロード後実行してください。
