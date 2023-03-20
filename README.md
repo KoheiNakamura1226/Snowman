@@ -61,3 +61,4 @@ https://github.com/KoheiNakamura1226
   
 ■更新履歴  
 2022年7月30日　Ver1.00を公開  
+2022年12月2日　Ver1.10を公開 
